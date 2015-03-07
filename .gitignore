@@ -1,2 +1,5 @@
+.idea
+.flooignore
+.floo
 __pycache__
 *.pyc
