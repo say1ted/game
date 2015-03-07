@@ -1,0 +1,20 @@
+{
+  "Lake":
+  {
+    "Description":"You are on lake",
+    "Directions": ["Forest", "Home"],
+    "Units": ["Goblin"],
+    "Items": ["Axe"]
+  },
+   "Home":
+  {
+    "Description":"You are in home",
+    "Directions": ["Forest", "Lake"]
+  },
+   "Forest":
+  {
+    "Description":"You are in forest",
+    "Directions": ["Home", "Lake"],
+    "Units":["Wolf", "Goblin"]
+  }
+}

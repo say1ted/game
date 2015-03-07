@@ -1,0 +1,18 @@
+{
+  "Player": {
+    "Description": "You",
+    "Health": 100,
+    "Attack": "3-7"
+  },
+  "Goblin": {
+    "Description": "Evil goblin",
+    "Health": 50,
+    "Attack": "2-5",
+    "Items":["Axe"]
+  },
+  "Wolf": {
+    "Description": "Forest's wolf",
+    "Health": 30,
+    "Attack": "2-4"
+  }
+}
